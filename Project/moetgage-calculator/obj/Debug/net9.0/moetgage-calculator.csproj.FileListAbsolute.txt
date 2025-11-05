@@ -1,0 +1,5 @@
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\moetgage-calculator\obj\Debug\net9.0\moetgage-calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\moetgage-calculator\obj\Debug\net9.0\moetgage-calculator.AssemblyInfoInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\moetgage-calculator\obj\Debug\net9.0\moetgage-calculator.AssemblyInfo.cs
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\moetgage-calculator\obj\Debug\net9.0\moetgage-calculator.csproj.CoreCompileInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\moetgage-calculator\obj\Debug\net9.0\moetgage-calculator.sourcelink.json
