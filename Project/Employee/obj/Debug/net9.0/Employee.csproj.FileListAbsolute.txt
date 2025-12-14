@@ -1,0 +1,15 @@
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.AssemblyInfoInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.AssemblyInfo.cs
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.csproj.CoreCompileInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.sourcelink.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\bin\Debug\net9.0\Employee.exe
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\bin\Debug\net9.0\Employee.deps.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\bin\Debug\net9.0\Employee.runtimeconfig.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\bin\Debug\net9.0\Employee.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\bin\Debug\net9.0\Employee.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\refint\Employee.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\Employee.genruntimeconfig.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\Employee\obj\Debug\net9.0\ref\Employee.dll
