@@ -1,0 +1,15 @@
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\bin\Debug\net9.0\IStudent.exe
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\bin\Debug\net9.0\IStudent.deps.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\bin\Debug\net9.0\IStudent.runtimeconfig.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\bin\Debug\net9.0\IStudent.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\bin\Debug\net9.0\IStudent.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.AssemblyInfoInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.AssemblyInfo.cs
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.csproj.CoreCompileInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.sourcelink.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\refint\IStudent.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\IStudent.genruntimeconfig.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IStudent\obj\Debug\net9.0\ref\IStudent.dll

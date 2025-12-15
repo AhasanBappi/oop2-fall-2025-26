@@ -1,0 +1,15 @@
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\bin\Debug\net9.0\IPrintable.exe
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\bin\Debug\net9.0\IPrintable.deps.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\bin\Debug\net9.0\IPrintable.runtimeconfig.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\bin\Debug\net9.0\IPrintable.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\bin\Debug\net9.0\IPrintable.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.AssemblyInfoInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.AssemblyInfo.cs
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.csproj.CoreCompileInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.sourcelink.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\refint\IPrintable.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\IPrintable.genruntimeconfig.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\IPrintable\obj\Debug\net9.0\ref\IPrintable.dll
