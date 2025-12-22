@@ -1,0 +1,15 @@
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\bin\Debug\net9.0\DelegateDemo.exe
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\bin\Debug\net9.0\DelegateDemo.deps.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\bin\Debug\net9.0\DelegateDemo.runtimeconfig.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\bin\Debug\net9.0\DelegateDemo.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\bin\Debug\net9.0\DelegateDemo.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfoInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.AssemblyInfo.cs
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.csproj.CoreCompileInputs.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.sourcelink.json
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\refint\DelegateDemo.dll
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.pdb
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\DelegateDemo.genruntimeconfig.cache
+D:\AIUB\OOP2\oop2-fall-2025-26\Project\DelegateDemo\obj\Debug\net9.0\ref\DelegateDemo.dll
