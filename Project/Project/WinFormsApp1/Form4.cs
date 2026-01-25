@@ -171,7 +171,7 @@ namespace WinFormsApp1
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form9 next = new Form9();
+            Form2 next = new Form2();
             next.Show();
             this.Hide();
         }
